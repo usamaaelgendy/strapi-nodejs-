@@ -59,3 +59,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+https://www.youtube.com/watch?v=RceLeh9D85o&ab_channel=CodingAfterThirty
+https://www.youtube.com/watch?v=rvo-L0cP5NA&list=PL7Q0DQYATmvgONvIWsy34aDkAtcdjsQLE&ab_channel=Strapi
+https://www.youtube.com/watch?v=0_xPyNnTZG0&list=PLWfXLyKWUGIK8Vh8sVwJol_bDDvRj7tNW&index=2&ab_channel=DwinaTech
